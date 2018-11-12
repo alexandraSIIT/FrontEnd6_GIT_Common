@@ -1,2 +1,15 @@
 Mela
+<<<<<<< HEAD
 Dan Pop
+=======
+Roxana
+Iulia
+Almas
+Boti
+
+
+
+
+
+Miruna
+>>>>>>> f6b16317324c6df0e1f461437154ec0a2cf9d2e9
