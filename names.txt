@@ -1,30 +1,5 @@
 Mela
-Roxana
 Iulia
 Almas
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
 
 Alexandru
-=======
-Boti
-Miruna
-Ovidiu
-<<<<<<< HEAD
-Ovidiu
-=======
-Delia
->>>>>>> f374bc4100dfb84fb5c392f2d2885d93d1ddd890
-Ovidiu
->>>>>>> cc3eb8f3364df5166cc52dd919304443382258da
