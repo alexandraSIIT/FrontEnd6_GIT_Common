@@ -1,16 +1,47 @@
 Mela
+
+Dan Pop
+
 Roxana
 Iulia
 Almas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alexandru
+
 Boti
+
+
+
+
+
 Miruna
-Ovidiu
-<<<<<<< HEAD
-Ovidiu
-=======
+
+
+
+
+
+
 Delia
->>>>>>> f374bc4100dfb84fb5c392f2d2885d93d1ddd890
+
+
+
+
+
 Ovidiu
+
 
 
 
