@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 Boti
 =======
 Mela
 Roxana
 Iulia
 Almas
->>>>>>> 9fa79c46cda64d5746cda9d60cd6db11dc1d7dbd
