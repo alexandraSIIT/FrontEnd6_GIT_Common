@@ -1,4 +1,5 @@
 Mela
+<<<<<<< HEAD
 Dan Pop
 
 Roxana
@@ -41,3 +42,9 @@ Delia
 
 Ovidiu
 
+=======
+Iulia
+Almas
+
+Alexandru
+>>>>>>> b8b7aa5c5b6228ae8948fa5d3bf3e968e36948ac
